@@ -32,21 +32,12 @@ Additionally, the project details how business IDs were used to filter reviews f
   - Visualization of key metrics.
   - Sentiment and token analysis comparing the two brands.
 
-- **ProjectEDA_Team212.html**  
-  This is the rendered HTML report, generated from the notebook. It summarizes:
+- **YelpDataEDA.ipynb**  
+  This is the rendered ipynb report, generated from the notebook. It summarizes:
   - The project’s methodology.
   - Data sources and key findings.
   - Detailed insights into review characteristics for both Chipotle and Taco Bell.
   
   The report also highlights the distinct brand positions: Chipotle is often seen as a healthier, premium option, while Taco Bell emphasizes affordability ProjectEDA_Team212.html](file-service://file-UbPhMUBjfvj9Ug5ZNdSkrL).
 
-## Setup and Installation
-
-To run the analysis locally, follow these steps:
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
 
